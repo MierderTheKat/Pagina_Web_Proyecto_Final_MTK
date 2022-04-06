@@ -1,5 +1,5 @@
 <?php
-$mysqli = new mysqli("localhost","root","lidiaoro.com","registros");
+$mysqli = new mysqli("localhost","root","","registros");
 
 if($mysqli->connect_error){
     echo "Ocurrió un error en al conexión: " . $mysqli->connect_error;
