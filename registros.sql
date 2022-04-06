@@ -22,6 +22,11 @@ SET time_zone = "+00:00";
 -- Base de datos: `registros`
 --
 
+
+-- Volcando estructura de base de datos para registros
+CREATE DATABASE IF NOT EXISTS `registros` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
+USE `registros`;
+
 -- --------------------------------------------------------
 
 --
