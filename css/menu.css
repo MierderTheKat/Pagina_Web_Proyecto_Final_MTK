@@ -1,0 +1,44 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+}
+
+.menu {
+    display: flex;
+    position: relative;
+    width: 450px;
+}
+
+.menu_item {
+    text-align: center;
+    margin: 0px 15px;
+    cursor: pointer;
+    position: absolute;
+    top: -130px;
+    transition: all 1s;
+}
+
+.menu_item img {
+    width: 120px;
+}
+
+.menu_item p {
+    margin: 0px;
+    font-size: 2.2em;
+}
+
+.menu_item--down {
+    top: 0px;
+}
+
+.menu_item--home {
+    left: 0px;
+}
+
+.menu_item--about {
+    left: 145px;
+}
+
+.menu_item--contact {
+    left: 290px;
+}
