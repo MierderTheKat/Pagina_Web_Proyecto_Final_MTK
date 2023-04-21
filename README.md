@@ -4,6 +4,12 @@ Página web de reservaciones para una graduación en la Universidad Politécnica
 [Universidad Politécnica de Durango](http://www.unipolidgo.edu.mx/sitio/) - Ingeniería en software 4°A
 - [Francisco Javier Rivera](https://github.com/MierderTheKat)
 
+## Visita la página web
+
+[Página WEB](http://graduationtkat.lovestoblog.com/index.php)
+
+[Video Demostrativo](https://youtu.be/tsm_v2cPQYs)
+
 ## Base de datos utilizada
 
 Nombre de la base de datos: `registros`
